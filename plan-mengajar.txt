@@ -1,3 +1,7 @@
 CU 1 computer system set-up
 * Jenis-jenis komputer
 * Alatan komputer
+
+CU 2 computer system maintenance
+* Terangkan jenis-jenis penyelenggaran
+* nyatakan alatan penyelenggaran
