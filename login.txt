@@ -132,7 +132,7 @@
 <body>
 
     <div class="login-container">
-        <h1>Welcome Back!</h1>
+        <h1>SELAMAT DATANG !</h1>
         <p>Please log in to your account.</p>
 
         <form id="loginForm">
